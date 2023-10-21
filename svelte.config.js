@@ -7,9 +7,7 @@ const config = {
 		adapter: adapter({
 			fallback: 'index.html',
 			pages: 'public',
-			assets: 'public',
-			precompress: true,
-			strict: true
+			assets: 'public'
 		}),
 	},
 	preprocess: vitePreprocess()
