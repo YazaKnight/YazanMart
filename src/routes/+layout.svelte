@@ -31,7 +31,7 @@
             </div>
             <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
             <div class="flex flex-shrink-0 items-center">
-                <img class="h-8 w-auto" src="IMG_9570.png" alt="YazanMart">
+                <img class="h-8 w-auto" src="/IMG_9570.png" alt="YazanMart">
                 <p class="text-white font-bold text-xl logo-font">&nbsp; YazanMart</p>
             </div>
             
@@ -51,7 +51,7 @@
                 <button type="button" class="relative flex rounded-full bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                     <span class="absolute -inset-1.5"></span>
                     <span class="sr-only">Open user menu</span>
-                    <img class="h-8 w-8 rounded-full" src="profile.png" alt="">
+                    <img class="h-8 w-8 rounded-full" src="/profile.png" alt="">
                 </button>
                 </div>
             </div>
